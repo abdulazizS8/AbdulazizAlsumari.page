@@ -1,0 +1,29 @@
+body {
+    color: white;
+    font-family: 'Railway', sans-serif;
+    background-image: url('../imgs/pexels-evie-shaffer-4004375.jpg');
+    background-size: cover;
+}
+
+.section-div {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section-div p {
+    font-size: 1.3rem;
+}
+
+.titleHeading {
+    border-bottom: 2px solid white;
+    padding: 5px;
+    width: fit-content;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.unonrerdlist ul li {
+    margin-top: 10px;
+}
